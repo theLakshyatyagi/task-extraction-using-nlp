@@ -1,20 +1,28 @@
 # Task Extraction using NLP
 ## Features
 Extracts sentences from unstructured text
+
 Identifies actionable tasks (e.g., “He has to buy snacks”)
+
 Detects responsible person and deadlines
+
 Categorizes each task into Work, Education, Personal, or Other
+
 Outputs results in structured JSON format
 
 ## Technologies Used
 Python 3
+
 Regular Expressions (re)
+
 JSON module
+
 Jupyter Notebook / VS Code
 
 ## Project Structure
-TaskExtraction.ipynb → Main notebook file
-README.md → Documentation
+TaskExtraction.ipynb           → Main notebook
+
+README.md                      → Project documentation
 
 ## How to Run
 1. Open the notebook in Jupyter or VS Code
