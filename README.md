@@ -86,7 +86,9 @@ By Next Monday, they will start a new assignment.
 
 ## Future Improvements
 Add Named Entity Recognition (NER) using spaCy
+
 Use a trained ML model for better task categorization
+
 Integrate with a web interface
 
 ## Author
